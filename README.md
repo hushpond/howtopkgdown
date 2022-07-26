@@ -1,0 +1,2 @@
+# howtopkgdown
+pkgdown package test
